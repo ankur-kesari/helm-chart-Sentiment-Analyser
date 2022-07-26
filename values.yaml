@@ -1,0 +1,4 @@
+image:
+  frontenddockerimage: ankurkesari/sa-frontend:v2
+
+SA_LOGIC_API_URL : "http://54.212.78.199:30001"
